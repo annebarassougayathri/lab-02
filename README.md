@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Gayathri Annebarassou>`
-- **CCID:** `<annebara>`
+- **Full Name:** `Gayathri Annebarassou`
+- **CCID:** `annebara`
 
 ## References and Resources
 

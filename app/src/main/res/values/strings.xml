@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListCity</string>
+    <string name="enter_a_city">Enter a City</string>
+    <string name="delete_city">DELETE CITY</string>
+    <string name="add_city">ADD CITY</string>
+    <string name="confirm">CONFIRM</string>
+</resources>
